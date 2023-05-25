@@ -1,1 +1,3 @@
-# rscpec_github_actions
+# GitHub Actions
+
+練習用
